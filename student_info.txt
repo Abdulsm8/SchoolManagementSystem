@@ -1,0 +1,11 @@
+Name: Abdussalam Muhammad Hassan
+Age: 24
+Email: amhfagge@gmail.com
+GPA: 4.06
+-------------------------
+Name: Abdussalam Muhammad Hassan
+Age: 25
+Email: amhfagge@gmail.com
+GPA: 4.06
+Course Applied: B.sc Software Engineering
+-------------------------
